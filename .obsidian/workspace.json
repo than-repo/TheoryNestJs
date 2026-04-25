@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "e4169fc323964856",
+    "type": "split",
+    "children": [
+      {
+        "id": "66223eda4c6c5ccb",
+        "type": "tabs",
+        "dimension": 43.93574297188755,
+        "children": [
+          {
+            "id": "3476c60ab09d9710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BASIC/Decorators & Metadata reflection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Decorators & Metadata reflection"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4511bc1e9b667a04",
+        "type": "tabs",
+        "dimension": 56.06425702811245,
+        "children": [
+          {
+            "id": "3d0ce8106ae857d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BASIC/Bootstrap - NestFactory (main.ts entry point).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bootstrap - NestFactory (main.ts entry point)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ce295a0d78b5735",
+    "type": "split",
+    "children": [
+      {
+        "id": "a90f75b56e5405bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8a9c6bb529aa7ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0b8b610d72ab7fa8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e61f3c5d3689a839",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5
+  },
+  "right": {
+    "id": "d07fab7193a93fb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a09dd56aa8a4180d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a900b6d1f142c7d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BASIC/Bootstrap - NestFactory (main.ts entry point).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bootstrap - NestFactory (main.ts entry point)"
+            }
+          },
+          {
+            "id": "3e2d1f46b47aa564",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BASIC/Bootstrap - NestFactory (main.ts entry point).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Bootstrap - NestFactory (main.ts entry point)"
+            }
+          },
+          {
+            "id": "fe8879f10447c54a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bfe527ac31a6ddb9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9ef245af525fa9ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BASIC/Bootstrap - NestFactory (main.ts entry point).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Bootstrap - NestFactory (main.ts entry point)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3d0ce8106ae857d8",
+  "lastOpenFiles": [
+    "Overview.md",
+    "BASIC/Decorators & Metadata reflection.md",
+    "BASIC/Dependency Injection (DI - IoC container).md",
+    "BASIC/Providers - Services (@Injectable() classes).md",
+    "BASIC/Controllers (@Controller() + HTTP method decorators like @Get(), @Post()).md",
+    "BASIC/Modules (@Module() decorator).md",
+    "BASIC/Bootstrap - NestFactory (main.ts entry point).md",
+    "BASIC",
+    "Modules (@Module, global vs feature modules, shared modules).md",
+    "NestJS CLI & Project Structure.md",
+    "Prompt.md",
+    "Welcome.md"
+  ]
+}
