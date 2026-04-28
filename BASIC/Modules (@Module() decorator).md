@@ -9,7 +9,6 @@
 - Modules make your code **organized, reusable, and testable**.
 ### 2. The @Module() Decorator (Official Structure)
 ```TypeScript
-
 // src/app.module.ts
 import { Module } from '@nestjs/common';
 import { AppController } from './app.controller';
@@ -36,7 +35,6 @@ export class AppModule {}
 - Declared in that module’s providers, **or**
 - Exported from a module listed in imports
 ### 4. Real Example: Root Module (AppModule)
-
 This is what a clean AppModule looks like in most real projects in 2025-2026:
 ```TypeScript
 // src/app.module.ts
